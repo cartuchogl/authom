@@ -1,0 +1,61 @@
+{
+  "test_url": "http://authom.jedschmidt.com/",
+  "services":
+  {
+    "twitter": {
+      "account": {
+        "username": "user",
+        "password": "pass",
+        "testname": "id_of_user"
+      },
+      "app": {
+        "id": "app_id",
+        "secret": "app_secret"
+      }
+    },
+    "github": {
+      "account": {
+        "username": "user",
+        "password": "pass",
+        "testname": "id_of_user"
+      },
+      "app": {
+        "id": "app_id",
+        "secret": "app_secret"
+      }
+    },
+    "instagram": {
+      "account": {
+        "username": "user",
+        "password": "pass",
+        "testname": "id_of_user"
+      },
+      "app": {
+        "id": "app_id",
+        "secret": "app_secret"
+      }
+    },
+    "foursquare": {
+      "account": {
+        "username": "user",
+        "password": "pass",
+        "testname": "id_of_user"
+      },
+      "app": {
+        "id": "app_id",
+        "secret": "app_secret"
+      }
+    },
+    "facebook": {
+      "account": {
+        "username": "user",
+        "password": "pass",
+        "testname": "id_of_user"
+      },
+      "app": {
+        "id": "app_id",
+        "secret": "app_secret"
+      }
+    }
+  }
+}
